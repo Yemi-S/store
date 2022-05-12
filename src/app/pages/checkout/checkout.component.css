@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    padding: 1rem 5rem;
+}
+
+.container .item{
+    flex: 1 1 auto;
+}
+
+.container .form{
+    width: 100%;
+}
+
+.container .form-element{
+    padding: 5px 0px 25px 2px;
+    width: 100%;
+    margin-bottom: .5rem;
+}
+
+.container_button{
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+    margin-top: 4rem;
+}
+
+.container_button .button{
+    width: 100%;
+}
